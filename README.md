@@ -1,8 +1,8 @@
 ## About me
-I'm a recent graduate of a Bachelor of Information Technology, majoring in software 
-technology.
+I'm have a Bachelor of Information Technology, majoring in software technology.
+I work as a Sytems/Devops/Software engineer.
 
-I have experience in various languages including Java, JavaScript, C and Python. While
+I have experience in various languages including Java, JavaScript, C, Golang and Python. While
 being proficient in these languages, I constantly look for opportunities to leverage 
 these skills in acquiring additional proficiency in other new languages.
 
@@ -12,6 +12,7 @@ these skills in acquiring additional proficiency in other new languages.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-96efff?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-96efff?&logo=Python)
 ![C](https://img.shields.io/badge/-C-96efff?&logo=C&logoColor=grey)
+![GoLang](https://img.shields.io/badge/-GoLang-96efff?&logo=Go)
 ![Scala](https://img.shields.io/badge/-Scala-96efff?&logo=Scala&logoColor=red)
 
 ## Technologies
