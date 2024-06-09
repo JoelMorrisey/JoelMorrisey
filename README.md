@@ -1,6 +1,6 @@
 ## About me
 I'm have a Bachelor of Information Technology, majoring in software technology.
-I work as a Sytems/Devops/Software engineer.
+I currently work in the following areas Sytems/Devops/Software engineer (primarily as a Devops engineer currently).
 
 I have experience in various languages including Java, JavaScript, C, Golang and Python. While
 being proficient in these languages, I constantly look for opportunities to leverage 
